@@ -1,7 +1,7 @@
 from setuptools import setup
 setup(
     name="TY_git_TEST",
-    version='1.0.0',
+    version='1.0.1',
     description="TY_test",
     url='https://github.com/arongi2436/TY_git_TEST.git',
     author='Taeyeoun Roh',

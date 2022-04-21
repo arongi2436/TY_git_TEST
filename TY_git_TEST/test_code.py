@@ -1,4 +1,4 @@
 import pandas as pd
 
 def input_test():
-    print(pd.DataFrame({"TEST":[1,2],"TEST2":[3,4]}))
+    print(pd.DataFrame({"TEST":["테스트"],"TEST2":["완료"]}))
